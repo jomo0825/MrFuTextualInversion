@@ -1,3 +1,7 @@
+# Warning: This repository had been merged into another project
+Thank you for your support. This repository had been merged to the following project.
+https://github.com/jomo0825/MrFuGenerativeAI
+
 # MrFuTextualInversion
 
 Step0: Wait for T4 runtime to be ready.
